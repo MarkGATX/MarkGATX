@@ -14,7 +14,7 @@
 
 <h2>Hi, I'm Mark!</h2>
 
-I'm a creative multi-hyphenate who loves to solve problems and fins interesting solutions. I feel like the experience a person can get using technology should be easy, enjoyable, and memorable, just like any other media people consume. I find myself becoming obsessed with making people connect with anything I make, from code to film.
+I'm a creative multi-hyphenate who loves to solve problems and find interesting solutions. The experience a person can get using technology should be easy, enjoyable, and memorable, just like any other media people consume. I find myself becoming obsessed with making people connect with anything I make, from code to film.
 
 - 👀 I’m interested in creative front end and full stack development as well as all types of creative media.
 - 🌱 I’m currently learning everything I can about Node.js, Bootstrap, and all the tools used to create full stack applications.
