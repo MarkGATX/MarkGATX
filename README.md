@@ -29,6 +29,7 @@ I'm a creative multi-hyphenate who loves to solve problems and find interesting 
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40" alt="CSS3">
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" width="40" height="40" alt="GitHub">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="Javascript">
    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="JQuery">
