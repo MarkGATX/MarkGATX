@@ -41,6 +41,7 @@ I'm a creative multi-hyphenate who loves to solve problems and find interesting 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" width="40" height="40" alt="Premiere Pro">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code">
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="Wordpress">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="40" height="40" alt="MongoDB">
   </div>
   
   ---
