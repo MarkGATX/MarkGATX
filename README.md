@@ -24,6 +24,8 @@ I'm a creative multi-hyphenate who loves to solve problems and find interesting 
 
 <h2>Languages and Tools:</h2>
 <div id='tools' style="background-color:white;">
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" alt="Material UI"/>        
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width="40" height="40" alt="After Effects">
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap">
