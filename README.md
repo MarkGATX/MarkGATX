@@ -18,7 +18,7 @@ I'm a creative multi-hyphenate who loves to solve problems and find interesting 
 
 - 👀 I’m interested in creative front end and full stack development as well as all types of creative media.
 - 🌱 I’m constantly making new apps to teach myself new frameworks and libraries
-- 💞️ I’m looking for a full-time job as a front-end or full-stack developer, preferably in the EU.
+- 💞️ I’m looking for a full-time job as a front-end or full-stack developer in the EU. Yes, we're committed to relocating. 
 
 ---
 
