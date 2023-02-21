@@ -6,6 +6,7 @@
  <a href="https://www.linkedin.com/in/mark-gardner-2b214817/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"></a>
   <a href="https://youtube.com/theweirdlings"><img src="https://img.shields.io/youtube/channel/subscribers/UCV_j3wMR3-bRQeihg8n7oNQ" alt="YouTube shield"></a>
  <img src="https://komarev.com/ghpvc/MarkGATX&color=blueviolet" alt="">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCV_j3wMR3-bRQeihg8n7oNQ?style=social">
   </div>
   </div>
   
