@@ -13,11 +13,11 @@
 
 <h2>Hi, I'm Mark!</h2>
 
-I'm a creative multi-hyphenate who loves to solve problems and find interesting solutions. The experience a person can get using technology should be easy, enjoyable, and memorable, just like any other media people consume. I find myself becoming obsessed with making people connect with anything I make, from code to film.
+I'm a creative Front-End and Full-Stack Devloper who loves to solve problems with interesting solutions. The experience a person can get using technology should be easy, enjoyable, and memorable, just like any other media people consume. I find myself becoming obsessed with making people connect with anything I make, from code to film.
 
 - 👀 I’m interested in creative front end and full stack development as well as all types of creative media.
 - 🌱 I’m constantly making new apps to teach myself new frameworks and libraries
-- 💞️ I’m looking for a full-time job as a front-end or full-stack developer in the EU. Yes, we're committed to relocating. 
+- 💞️ I’m looking for a full-time job as a Front-End or Full-Stack Developer in the EU. Yes, we're committed to relocating. 
 
 ---
 
