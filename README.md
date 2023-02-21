@@ -4,9 +4,7 @@
 <div id="badges">
   <a href="https://twitter.com/markgardneratx"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fmarkgardneratx" alt="twitter shield"></a>
  <a href="https://www.linkedin.com/in/mark-gardner-2b214817/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"></a>
-  <a href="https://youtube.com/theweirdlings"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCV_j3wMR3-bRQeihg8n7oNQ?style=social"></a>
- 
-  
+  <a href="https://youtube.com/theweirdlings"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/views/UCV_j3wMR3-bRQeihg8n7oNQ?style=social"></a>
   </div>
   </div>
   
