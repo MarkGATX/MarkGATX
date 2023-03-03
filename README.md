@@ -22,7 +22,7 @@ I'm a creative Front-End and Full-Stack Devloper who loves to solve problems wit
 ---
 
 <h2>Languages and Tools:</h2>
-<div id='tools' style="background-color:white;">
+<div id='tools' style="background-color:white !important; padding:1em !important;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" alt="Material UI"/>        
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react"/>    
  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width="40" height="40" alt="After Effects">
