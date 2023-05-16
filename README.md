@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/112417090/196089857-bc426d38-c4cf-44c5-9264-d2d334ef75b1.jpg" alt="mark with lots of coffee" width="100"/>
 
 <div id="badges">
-  <a href="https://twitter.com/markgardneratx"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fmarkgardneratx" alt="twitter shield"></a>
  <a href="https://www.linkedin.com/in/mark-gardner-2b214817/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"></a>
   <a href="https://youtube.com/theweirdlings"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/views/UCV_j3wMR3-bRQeihg8n7oNQ?style=social"></a>
   </div>
