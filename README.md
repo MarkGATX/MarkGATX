@@ -11,7 +11,7 @@
   
 <h1>About Me</h1>
 
-# <h2>Hi, I'm Mark!</h2>
+<h2>Hi, I'm Mark!</h2>
 
 I'm a Front-End and Full-Stack Devloper who loves building creative solutions. My diverse experiences have given me a deep respect for constant learning as well as soft-skills to work with diverse teams, a keen eye for detail, and a knack for visual storytelling.
 
