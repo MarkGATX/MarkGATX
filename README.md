@@ -22,7 +22,7 @@ I'm a Front-End and Full-Stack Devloper who loves building creative solutions. M
 ---
 
 <h2>Languages and Tools:</h2>
-<div id='tools'>
+<div id='tools' style="border:1px solid grey;">
     
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="Javascript">
