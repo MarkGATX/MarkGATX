@@ -15,14 +15,14 @@
 
 I'm a Front-End and Full-Stack Devloper who loves building creative solutions. My diverse experiences have given me a deep respect for constant learning as well as soft-skills to work with diverse teams, a keen eye for detail, and a knack for visual storytelling.
 
-- 👀 I’m interested in creative front end and full stack development as well as all types of creative media.
-- 🌱 I’m constantly reading and learning so I can make my applications better in every way, from improved UX to improved security.
-- 💞️ I’m on a quest for a full-time job as a Front-End Developer in the EU. Yes, we're committed to relocating. Until then, I'm working as a Freelance Developer for clients.  
+👀 I’m interested in creative front end and full stack development as well as all types of creative media.
+🌱 I’m constantly reading and learning so I can make my applications better in every way, from improved UX to improved security.
+💞️ I’m on a quest for a full-time job as a Front-End Developer in the EU. Yes, we're committed to relocating. Until then, I'm working as a Freelance Developer for clients.  
 
 ---
 
 <h2>Languages and Tools:</h2>
-<div id='tools'">
+<div id='tools'>
     
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="Javascript">
