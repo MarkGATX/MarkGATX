@@ -17,7 +17,7 @@ I'm a Front-End and Full-Stack Devloper who loves building creative solutions. M
 
 - 👀 I’m interested in creative front end and full stack development as well as all types of creative media.
 - 🌱 I’m constantly reading and learning so I can make my applications better in every way, from improved UX to improved security.
-- 💞️ I’m on a quest for a full-time job as a Front-End Developer in the EU. Yes, we're committed to relocating. Until then, I'm working as a Freelance Developer for clients.  
+- 💞️ I’m on a quest for a full-time job as a Front-End Developer. We're committed to relocating for the right role, preferably in the EU or Canada. Until then, I'm working as a Freelance Developer for clients.  
 
 ---
 
